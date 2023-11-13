@@ -1,12 +1,11 @@
 ### Fala Galera !!! 👋
-
-<div>
+  
 - 🔭 Atualmente trabalho como gerente de produtos e projetos digitais nas horas pagas;
-- 🌱 Estudo python das disciplinas de engenharia e ciência de dados, desenvolvendo também softwares e aplicações web baseadas nessa linguagem nas horas vagas.
+- 🌱 Estudo python e as disciplinas de engenharia e ciência de dados, desenvolvendo também softwares e aplicações web baseadas nessa linguagem nas horas vagas.
 - 📚 Atualmente também sou professor universitário das disciplinas de linguagem de programação Python e Big Data.
 - 📫 contato: carloseduardo_lps@hotmail.com
 - 😄 Pronouns: ele/ dele
-</div>
+  
   <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carloslopes88&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
