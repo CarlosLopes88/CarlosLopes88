@@ -1,9 +1,13 @@
 ### Fala Galera !!! 👋
   
-- 🔭 Atualmente trabalho como gerente de produtos e projetos digitais nas horas pagas;
+- 🔭 Atualmente trabalho como gerente de produtos e projetos digitais nas horas pagas.
+  
 - 🌱 Estudo python e as disciplinas de engenharia e ciência de dados, desenvolvendo também softwares e aplicações web baseadas nessa linguagem nas horas vagas.
+  
 - 📚 Atualmente também sou professor universitário das disciplinas de linguagem de programação Python e Big Data.
+  
 - 📫 contato: carloseduardo_lps@hotmail.com
+  
 - 😄 Pronouns: ele/ dele
   
   <div align="center">
