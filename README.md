@@ -41,7 +41,7 @@
 
 ##
 
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+<div style="display: inline_block"><br>
     <div style="flex-basis: 30%;">
         <img align="center" alt="carloslopes88-Yoda" height="200" width="200" src="img/yoda.jpg">
     </div>
