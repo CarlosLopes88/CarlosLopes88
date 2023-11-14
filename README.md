@@ -21,7 +21,7 @@
 
 ### Abaixo um pouco das tecnologias que conheço !!! 
 
-<div style="display: inline_block"><br>
+<div style="display: grid"><br>
   <div>
     <img align="center" alt="carloslopes88-Yoda" height="300" width="300" src="img/yoda.jpg">
   </div>
