@@ -25,7 +25,7 @@
   <div style="display: grid";>
     <img align="center" alt="carloslopes88-Yoda" height="300" width="300" src="img/yoda.jpg">
   </div>
-  <div style="display: grid" align="right" width: 50%;>
+  <div style="display: grid" align="right" width:"10%";>
     <img align="center" alt="carloslopes88-Python" height="80" width="80" src="https://skillicons.dev/icons?i=python">
     <img align="center" alt="carloslopes88-Js" height="80" width="80" src="https://skillicons.dev/icons?i=js">
     <img align="center" alt="carloslopes88-Html" height="80" width="80" src="https://skillicons.dev/icons?i=html">
