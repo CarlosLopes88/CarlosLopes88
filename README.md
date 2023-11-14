@@ -22,7 +22,7 @@
 ### Abaixo um pouco das tecnologias que conheço !!! 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="carloslopes88-Yoda" height="80" width="80" src="/Carlos/img/arquivo.jpg">
+  <img align="center" alt="carloslopes88-Yoda" height="80" width="80" src="img/yoda.jpg">
   <img align="center" alt="carloslopes88-Python" height="80" width="80" src="https://skillicons.dev/icons?i=python">
   <img align="center" alt="carloslopes88-Js" height="80" width="80" src="https://skillicons.dev/icons?i=js">
   <img align="center" alt="carloslopes88-Html" height="80" width="80" src="https://skillicons.dev/icons?i=html">
