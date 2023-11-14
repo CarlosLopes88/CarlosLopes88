@@ -21,11 +21,11 @@
 
 ### Abaixo um pouco das tecnologias que conheço !!! 
 
-<div display="flex" align-items="center">
-  <div>
+<div id="principal">
+  <div id="1">
     <img align="center" alt="carloslopes88-Azure" height="400" width="400" src="https://skillicons.dev/icons?i=azure">
   </div>
-  <div>
+  <div id="2">
     <img align="center" alt="carloslopes88-Python" height="80" width="80" src="https://skillicons.dev/icons?i=python">
     <img align="center" alt="carloslopes88-Js" height="80" width="80" src="https://skillicons.dev/icons?i=js">
     <img align="center" alt="carloslopes88-Html" height="80" width="80" src="https://skillicons.dev/icons?i=html">
@@ -40,7 +40,26 @@
 </div>
 
 ##
- 
+
+<div style="display: flex; width: 100%;">
+  <div style="flex: 1; box-sizing: border-box; padding: 10px;">
+    <img align="center" alt="carloslopes88-Azure" height="400" width="400" src="https://skillicons.dev/icons?i=azure">
+  </div>
+  <div style="flex: 1; box-sizing: border-box; padding: 10px;">
+    <img align="center" alt="carloslopes88-Python" height="80" width="80" src="https://skillicons.dev/icons?i=python">
+    <img align="center" alt="carloslopes88-Js" height="80" width="80" src="https://skillicons.dev/icons?i=js">
+    <img align="center" alt="carloslopes88-Html" height="80" width="80" src="https://skillicons.dev/icons?i=html">
+    <img align="center" alt="carloslopes88-Css" height="80" width="80" src="https://skillicons.dev/icons?i=css">
+    <img align="center" alt="carloslopes88-Csharp" height="80" width="80" src="https://skillicons.dev/icons?i=cs">
+    <img align="center" alt="carloslopes88-Django" height="80" width="80" src="https://skillicons.dev/icons?i=django">
+    <img align="center" alt="carloslopes88-Flask" height="80" width="80" src="https://skillicons.dev/icons?i=flask">
+    <img align="center" alt="carloslopes88-Aws" height="80" width="80" src="https://skillicons.dev/icons?i=aws">
+    <img align="center" alt="carloslopes88-Gcp" height="80" width="80" src="https://skillicons.dev/icons?i=gcp">
+    <img align="center" alt="carloslopes88-Azure" height="80" width="80" src="https://skillicons.dev/icons?i=azure">
+  </div>
+</div>
+
+##
 <div>
   <a href="https://www.linkedin.com/in/carlos-eduardo-lopes-planejamento-empresarial/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>  
