@@ -23,7 +23,7 @@
 
 <div>
   <div>
-    <img align="center" alt="carloslopes88-Azure" height="800" width="800" src="https://skillicons.dev/icons?i=azure">
+    <img align="center" alt="carloslopes88-Azure" height="400" width="400" src="https://skillicons.dev/icons?i=azure">
   </div>
   <div>
     <img align="center" alt="carloslopes88-Python" height="80" width="80" src="https://skillicons.dev/icons?i=python">
