@@ -41,11 +41,11 @@
 
 ##
 
-<div style="display: flex; width: 100%;">
-  <div style="flex: 1; box-sizing: border-box; padding: 10px;">
+<div style="display: flex; align-items: center;">
+  <div style="max-width: 50%;margin-left: 150px;">
     <img align="center" alt="carloslopes88-Azure" height="400" width="400" src="https://skillicons.dev/icons?i=azure">
   </div>
-  <div style="flex: 1; box-sizing: border-box; padding: 10px;">
+  <div style="flex: 2;margin-left: 20px;">
     <img align="center" alt="carloslopes88-Python" height="80" width="80" src="https://skillicons.dev/icons?i=python">
     <img align="center" alt="carloslopes88-Js" height="80" width="80" src="https://skillicons.dev/icons?i=js">
     <img align="center" alt="carloslopes88-Html" height="80" width="80" src="https://skillicons.dev/icons?i=html">
