@@ -22,7 +22,7 @@
 ### Abaixo um pouco das tecnologias que conheço !!! 
 
 <div style="display: inline-block"><br>
-  <div display: grid grid-template-columns: 200px 200px>
+  <div style="display: grid grid-template-columns: "200px 200px";>
     <img align="center" alt="carloslopes88-Python" height="80" width="80" src="https://skillicons.dev/icons?i=python">
     <img align="center" alt="carloslopes88-Js" height="80" width="80" src="https://skillicons.dev/icons?i=js">
     <img align="center" alt="carloslopes88-Html" height="80" width="80" src="https://skillicons.dev/icons?i=html">
