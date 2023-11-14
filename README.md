@@ -21,7 +21,7 @@
 
 ### Abaixo um pouco das tecnologias que conheço !!! 
 
-<div style="display: flex align-items: center";>
+<div display="flex" align-items="center">
   <div>
     <img align="center" alt="carloslopes88-Azure" height="400" width="400" src="https://skillicons.dev/icons?i=azure">
   </div>
