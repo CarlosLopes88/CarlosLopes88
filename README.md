@@ -75,6 +75,8 @@
         <img align="center" alt="carloslopes88-Html" height="80" width="80" src="https://skillicons.dev/icons?i=html">
         <img align="center" alt="carloslopes88-Css" height="80" width="80" src="https://skillicons.dev/icons?i=css">
         <img align="center" alt="carloslopes88-Csharp" height="80" width="80" src="https://skillicons.dev/icons?i=cs">
+    </div>
+    <div style="flex-basis: 60%; display: flex; flex-wrap: wrap; justify-content: flex-end;">
         <img align="center" alt="carloslopes88-Django" height="80" width="80" src="https://skillicons.dev/icons?i=django">
         <img align="center" alt="carloslopes88-Flask" height="80" width="80" src="https://skillicons.dev/icons?i=flask">
         <img align="center" alt="carloslopes88-Aws" height="80" width="80" src="https://skillicons.dev/icons?i=aws">
