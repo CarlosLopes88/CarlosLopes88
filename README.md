@@ -43,7 +43,7 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
     <div style="flex-basis: 30%;">
-        <img align="center" alt="carloslopes88-Yoda" height="80" width="80" src="img/yoda.jpg">
+        <img align="center" alt="carloslopes88-Yoda" height="200" width="200" src="img/yoda.jpg">
     </div>
     <div style="flex-basis: 30%; display: flex; flex-wrap: wrap;">
         <img align="center" alt="carloslopes88-Python" height="80" width="80" src="https://skillicons.dev/icons?i=python">
