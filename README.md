@@ -30,6 +30,8 @@
   <img align="center" alt="carloslopes88-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" alt="carloslopes88-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg">
   <img align="center" alt="carloslopes88-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg">
+  <img align="center" alt="carloslopes88-Csharp" height="30" width="40" src="https://skillicons.dev/icons?i=aws,gcp,azure&perline=3">
+
 </div>
 
 ##
