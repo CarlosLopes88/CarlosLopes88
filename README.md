@@ -20,7 +20,7 @@
 ##
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="carloslopes88-Csharp" height="30" width="40" src="https://skillicons.dev/icons?i=python,js,html,css,cs,django,flask,aws,gcp,azure&perline=5">
+  <img align="center" alt="carloslopes88-Csharp" height="100" width="100" src="https://skillicons.dev/icons?i=python,js,html,css,cs,django,flask,aws,gcp,azure&perline=5">
 </div>
 
 ##
