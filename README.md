@@ -21,11 +21,11 @@
 
 ### Abaixo um pouco das tecnologias que conheço !!! 
 
-<div style="display: grid"><br>
-  <div>
+<div style="display: inline-block"><br>
+  <div style="display: grid";>
     <img align="center" alt="carloslopes88-Yoda" height="300" width="300" src="img/yoda.jpg">
   </div>
-  <div>
+  <div style="display: grid";>
     <img align="center" alt="carloslopes88-Python" height="80" width="80" src="https://skillicons.dev/icons?i=python">
     <img align="center" alt="carloslopes88-Js" height="80" width="80" src="https://skillicons.dev/icons?i=js">
     <img align="center" alt="carloslopes88-Html" height="80" width="80" src="https://skillicons.dev/icons?i=html">
