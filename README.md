@@ -19,6 +19,8 @@
 
 ##
 
+### Abaixo um pouco das tecnologias que conheço !!! 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="carloslopes88-Csharp" height="80" width="80" src="https://skillicons.dev/icons?i=python">
   <img align="center" alt="carloslopes88-Csharp" height="80" width="80" src="https://skillicons.dev/icons?i=js">
