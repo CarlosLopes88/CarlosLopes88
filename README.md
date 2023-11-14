@@ -8,7 +8,7 @@
   
 - 📫 contato: carloseduardo_lps@hotmail.com
   
-<div style="align=center";>
+<div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carloslopes88&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloslopes88&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -21,7 +21,7 @@
 
 ### Abaixo um pouco das tecnologias que conheço !!! 
 
-<div>
+<div style="display: flex align-items: center";>
   <div>
     <img align="center" alt="carloslopes88-Azure" height="400" width="400" src="https://skillicons.dev/icons?i=azure">
   </div>
