@@ -69,7 +69,7 @@
     <div style="flex-basis: 40%;">
         <img align="center" alt="carloslopes88-Yoda" height="200" width="200" src="img/yoda.jpg">
     </div>
-    <div style="flex-basis: 60%; display: flex; flex-wrap: wrap;">
+    <div style="flex-basis: 60%; display: flex; flex-wrap: wrap; justify-content: flex-end;">
         <img align="center" alt="carloslopes88-Python" height="80" width="80" src="https://skillicons.dev/icons?i=python">
         <img align="center" alt="carloslopes88-Js" height="80" width="80" src="https://skillicons.dev/icons?i=js">
         <img align="center" alt="carloslopes88-Html" height="80" width="80" src="https://skillicons.dev/icons?i=html">
