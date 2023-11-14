@@ -20,7 +20,16 @@
 ##
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="carloslopes88-Csharp" height="100" width="100" src="https://skillicons.dev/icons?i=python,js,html,css,cs,django,flask,aws,gcp,azure&perline=5">
+  <img align="center" alt="carloslopes88-Csharp" height="100" width="100" src="https://skillicons.dev/icons?i=python">
+  <img align="center" alt="carloslopes88-Csharp" height="100" width="100" src="https://skillicons.dev/icons?i=js">
+  <img align="center" alt="carloslopes88-Csharp" height="100" width="100" src="https://skillicons.dev/icons?i=html">
+  <img align="center" alt="carloslopes88-Csharp" height="100" width="100" src="https://skillicons.dev/icons?i=css">
+  <img align="center" alt="carloslopes88-Csharp" height="100" width="100" src="https://skillicons.dev/icons?i=cs">
+  <img align="center" alt="carloslopes88-Csharp" height="100" width="100" src="https://skillicons.dev/icons?i=django">
+  <img align="center" alt="carloslopes88-Csharp" height="100" width="100" src="https://skillicons.dev/icons?i=flask">
+  <img align="center" alt="carloslopes88-Csharp" height="100" width="100" src="https://skillicons.dev/icons?i=aws">
+  <img align="center" alt="carloslopes88-Csharp" height="100" width="100" src="https://skillicons.dev/icons?i=gcp">
+  <img align="center" alt="carloslopes88-Csharp" height="100" width="100" src="https://skillicons.dev/icons?i=azure">
 </div>
 
 ##
