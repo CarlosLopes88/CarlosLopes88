@@ -26,16 +26,16 @@
     <img align="center" alt="carloslopes88-Yoda" height="300" width="300" src="img/yoda.jpg">
   </div>
   <div>
-  <img align="center" alt="carloslopes88-Python" height="80" width="80" src="https://skillicons.dev/icons?i=python">
-  <img align="center" alt="carloslopes88-Js" height="80" width="80" src="https://skillicons.dev/icons?i=js">
-  <img align="center" alt="carloslopes88-Html" height="80" width="80" src="https://skillicons.dev/icons?i=html">
-  <img align="center" alt="carloslopes88-Css" height="80" width="80" src="https://skillicons.dev/icons?i=css">
-  <img align="center" alt="carloslopes88-Csharp" height="80" width="80" src="https://skillicons.dev/icons?i=cs">
-  <img align="center" alt="carloslopes88-Django" height="80" width="80" src="https://skillicons.dev/icons?i=django">
-  <img align="center" alt="carloslopes88-Flask" height="80" width="80" src="https://skillicons.dev/icons?i=flask">
-  <img align="center" alt="carloslopes88-Aws" height="80" width="80" src="https://skillicons.dev/icons?i=aws">
-  <img align="center" alt="carloslopes88-Gcp" height="80" width="80" src="https://skillicons.dev/icons?i=gcp">
-  <img align="center" alt="carloslopes88-Azure" height="80" width="80" src="https://skillicons.dev/icons?i=azure">
+    <img align="center" alt="carloslopes88-Python" height="80" width="80" src="https://skillicons.dev/icons?i=python">
+    <img align="center" alt="carloslopes88-Js" height="80" width="80" src="https://skillicons.dev/icons?i=js">
+    <img align="center" alt="carloslopes88-Html" height="80" width="80" src="https://skillicons.dev/icons?i=html">
+    <img align="center" alt="carloslopes88-Css" height="80" width="80" src="https://skillicons.dev/icons?i=css">
+    <img align="center" alt="carloslopes88-Csharp" height="80" width="80" src="https://skillicons.dev/icons?i=cs">
+    <img align="center" alt="carloslopes88-Django" height="80" width="80" src="https://skillicons.dev/icons?i=django">
+    <img align="center" alt="carloslopes88-Flask" height="80" width="80" src="https://skillicons.dev/icons?i=flask">
+    <img align="center" alt="carloslopes88-Aws" height="80" width="80" src="https://skillicons.dev/icons?i=aws">
+    <img align="center" alt="carloslopes88-Gcp" height="80" width="80" src="https://skillicons.dev/icons?i=gcp">
+    <img align="center" alt="carloslopes88-Azure" height="80" width="80" src="https://skillicons.dev/icons?i=azure">
   </div>
 </div>
 
