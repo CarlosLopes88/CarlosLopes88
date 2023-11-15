@@ -42,7 +42,7 @@
 ##
 <div style="display: center; align-items: center;">
    <div style="max-width: 50%; margin: 20px;">
-     <img align="center" alt="carloslopes88-Azure" height="300" width="300" src="https://skillicons.dev/icons?i=azure">
+     <img align="center" alt="carloslopes88-Azure" height="100" width="100" src="https://skillicons.dev/icons?i=azure">
    </div>
    <div style="flex: 2; display: grid; grid-template-columns: 80px 80px 80px 80px 80px; gap: 20px 20px;">
      <img align="center" alt="carloslopes88-Python" height="80" width="80" src="https://skillicons.dev/icons?i=python">
