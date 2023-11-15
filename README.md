@@ -22,10 +22,10 @@
 ### Abaixo um pouco das tecnologias que conheço !!! 
 
 <div style="display: flex; align-items: center;">
-   <div style="max-width: 50%; margin: 20px;">
+   <div align="center">
      <img align="center" alt="carloslopes88-Azure" height="200" width="200" src="https://skillicons.dev/icons?i=azure">
    </div>
-   <div style="flex: 2; display: flex; gap: 20px; flex-wrap: wrap;">
+   <div align="center">
      <img align="center" alt="carloslopes88-Python" height="80" width="80" src="https://skillicons.dev/icons?i=python">
      <img align="center" alt="carloslopes88-Js" height="80" width="80" src="https://skillicons.dev/icons?i=js">
      <img align="center" alt="carloslopes88-Html" height="80" width="80" src="https://skillicons.dev/icons?i=html">
