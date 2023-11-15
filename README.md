@@ -19,7 +19,8 @@
 
 ##
 
-### Abaixo um pouco das tecnologias que conheço !!! 
+### Abaixo um pouco das tecnologias que conheço !!!
+
 
 <div align="flex">
   <img align="center" alt="carloslopes88-Python" height="80" width="80" src="https://skillicons.dev/icons?i=python">
@@ -33,6 +34,7 @@
   <img align="center" alt="carloslopes88-Gcp" height="80" width="80" src="https://skillicons.dev/icons?i=gcp">
   <img align="center" alt="carloslopes88-Azure" height="80" width="80" src="https://skillicons.dev/icons?i=azure">
 </div>
+
 
 ##
 
