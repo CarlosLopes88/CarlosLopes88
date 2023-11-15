@@ -23,7 +23,7 @@
 
 <div style="display: flex; align-items: center;">
    <div style="max-width: 50%; margin: 20px;">
-     <img align="center" alt="carloslopes88-Azure" height="400" width="400" src="https://skillicons.dev/icons?i=azure">
+     <img align="center" alt="carloslopes88-Azure" height="200" width="200" src="https://skillicons.dev/icons?i=azure">
    </div>
    <div style="flex: 2; display: flex; gap: 20px; flex-wrap: wrap;">
      <img align="center" alt="carloslopes88-Python" height="80" width="80" src="https://skillicons.dev/icons?i=python">
