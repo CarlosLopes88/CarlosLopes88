@@ -21,7 +21,7 @@
 
 ### Abaixo um pouco das tecnologias que conheço !!! 
 
-<div align="center">
+<div align="flex">
   <img align="center" alt="carloslopes88-Python" height="80" width="80" src="https://skillicons.dev/icons?i=python">
   <img align="center" alt="carloslopes88-Js" height="80" width="80" src="https://skillicons.dev/icons?i=js">
   <img align="center" alt="carloslopes88-Html" height="80" width="80" src="https://skillicons.dev/icons?i=html">
