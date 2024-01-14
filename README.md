@@ -33,6 +33,7 @@
   <img align="center" alt="carloslopes88-FastAPI" height="80" width="80" src="https://skillicons.dev/icons?i=fastapi">
   <img align="center" alt="carloslopes88-Aws" height="80" width="80" src="https://skillicons.dev/icons?i=aws">
   <img align="center" alt="carloslopes88-Docker" height="80" width="80" src="https://skillicons.dev/icons?i=docker">
+  
   <img align="center" alt="carloslopes88-Terraform" height="80" width="80" src="https://skillicons.dev/icons?i=terraform">
   <img align="center" alt="carloslopes88-Kubernetes" height="80" width="80" src="https://skillicons.dev/icons?i=kubernetes">
   <img align="center" alt="carloslopes88-Kafka" height="80" width="80" src="https://skillicons.dev/icons?i=kafka">
