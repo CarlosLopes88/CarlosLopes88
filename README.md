@@ -50,6 +50,8 @@
 
 ### Projetos Python:
 
+#### 1. [Projeto ERP MVC](https://github.com/CarlosLopes88/Projeto_ERP_MVC)
+
 ##
 
 ### Projetos Web:
