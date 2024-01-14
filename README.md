@@ -28,6 +28,7 @@
   <img align="center" alt="carloslopes88-Html" height="80" width="80" src="https://skillicons.dev/icons?i=html">
   <img align="center" alt="carloslopes88-Css" height="80" width="80" src="https://skillicons.dev/icons?i=css">
   <img align="center" alt="carloslopes88-Csharp" height="80" width="80" src="https://skillicons.dev/icons?i=cs">
+  <img align="center" alt="carloslopes88-Django" height="80" width="80" src="https://skillicons.dev/icons?i=django">
   <img align="center" alt="carloslopes88-Flask" height="80" width="80" src="https://skillicons.dev/icons?i=flask">
   <img align="center" alt="carloslopes88-FastAPI" height="80" width="80" src="https://skillicons.dev/icons?i=fastapi">
   <img align="center" alt="carloslopes88-Aws" height="80" width="80" src="https://skillicons.dev/icons?i=aws">
