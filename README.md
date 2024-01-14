@@ -58,9 +58,9 @@
 
 ### Projetos Web:
 
-##
-
 #### 1. [Projeto Flask](https://github.com/CarlosLopes88/Projeto_Flask)
+
+##
 
 ### Projetos Data Science:
 
