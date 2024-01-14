@@ -45,3 +45,19 @@
 </div>  
 
 😎🤙
+
+##
+
+### Projetos Python:
+
+##
+
+### Projetos Web:
+
+##
+
+### Projetos Data Science:
+
+##
+
+### Projetos Data Engineer:
