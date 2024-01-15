@@ -67,5 +67,3 @@
 ##
 
 ### Projetos Data Engineer:
-
-<img align="center" alt="carloslopes88-Python" height="400" width="400" src="https://github.com/CarlosLopes88/CarlosLopes88/blob/main/img/Diagrama%20sem%20nome1.png">
