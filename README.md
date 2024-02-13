@@ -67,3 +67,5 @@
 ##
 
 ### Projetos Data Engineer:
+
+#### 1. [Engenharia de dados com Python](https://github.com/CarlosLopes88/data_engineer_python_project)
