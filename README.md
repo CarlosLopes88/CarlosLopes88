@@ -69,3 +69,4 @@
 ### Projetos Data Engineer:
 
 #### 1. [Engenharia de dados com Python](https://github.com/CarlosLopes88/data_engineer_python_project)
+#### 2. [Projeto de Dados Stream com Python e Datalake na Infraestrutura AWS](https://github.com/CarlosLopes88/data_stream_with_python_aws_datalake).
