@@ -50,17 +50,17 @@
 
 ### Projetos Python:
 
-#### 1. [Projeto ERP MVC](https://github.com/CarlosLopes88/Projeto_ERP_MVC).
+#### 1. [Projeto ERP MVC](https://github.com/CarlosLopes88/Projeto_ERP_MVC)
 
-#### 2. [Sistema de login](https://github.com/CarlosLopes88/Projeto-Login-System).
+#### 2. [Sistema de login](https://github.com/CarlosLopes88/Projeto-Login-System)
 
-#### 3. [Web scraping with pyhon](https://github.com/CarlosLopes88/Web_scraping_with_pyhon).
+#### 3. [Web scraping with pyhon](https://github.com/CarlosLopes88/Web_scraping_with_pyhon)
 
 ##
 
 ### Projetos Web:
 
-#### 1. [Projeto Flask](https://github.com/CarlosLopes88/Projeto_Flask).
+#### 1. [Projeto Flask](https://github.com/CarlosLopes88/Projeto_Flask)
 
 ##
 
@@ -70,5 +70,5 @@
 
 ### Projetos Data Engineer:
 
-#### 1. [Engenharia de dados com Python](https://github.com/CarlosLopes88/data_engineer_python_project).
-#### 2. [Projeto de Dados Stream com Python e Datalake na Infraestrutura AWS](https://github.com/CarlosLopes88/data_stream_with_python_aws_datalake).
+#### 1. [Engenharia de dados com Python](https://github.com/CarlosLopes88/data_engineer_python_project)
+#### 2. [Projeto de Dados Stream com Python e Datalake na Infraestrutura AWS](https://github.com/CarlosLopes88/data_stream_with_python_aws_datalake)
