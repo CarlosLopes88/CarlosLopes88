@@ -66,6 +66,8 @@
 
 ### Projetos Data Science:
 
+#### 1. [Regression models](https://github.com/CarlosLopes88/Sales_forecast_regression_models).
+
 ##
 
 ### Projetos Data Engineer:
