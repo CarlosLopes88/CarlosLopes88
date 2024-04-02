@@ -74,3 +74,9 @@
 
 #### 1. [Engenharia de dados com Python](https://github.com/CarlosLopes88/data_engineer_python_project);
 #### 2. [Projeto de Dados Stream com Python e Datalake na Infraestrutura AWS](https://github.com/CarlosLopes88/data_stream_with_python_aws_datalake).
+
+##
+
+### Projetos Node.js
+
+#### 1. [Integração de API em Node.js com banco de dados NoSQL MongoDB Atlas](https://github.com/CarlosLopes88/API_Node_MongoDB);
