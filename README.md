@@ -48,19 +48,23 @@
 
 ##
 
-### Projetos Python:
+### Projetos BackEnd Python e Node.js:
 
 #### 1. [Projeto ERP MVC](https://github.com/CarlosLopes88/Projeto_ERP_MVC);
 
 #### 2. [Sistema de login](https://github.com/CarlosLopes88/Projeto-Login-System);
 
-#### 3. [Web scraping with pyhon](https://github.com/CarlosLopes88/Web_scraping_with_pyhon).
+#### 3. [Integração de API em Node.js com banco de dados NoSQL MongoDB Atlas](https://github.com/CarlosLopes88/API_Node_MongoDB).
+
+
 
 ##
 
 ### Projetos Web:
 
 #### 1. [Projeto Flask](https://github.com/CarlosLopes88/Projeto_Flask).
+
+#### 2. [Web scraping with pyhon](https://github.com/CarlosLopes88/Web_scraping_with_pyhon).
 
 ##
 
@@ -76,7 +80,3 @@
 #### 2. [Projeto de Dados Stream com Python e Datalake na Infraestrutura AWS](https://github.com/CarlosLopes88/data_stream_with_python_aws_datalake).
 
 ##
-
-### Projetos Node.js
-
-#### 1. [Integração de API em Node.js com banco de dados NoSQL MongoDB Atlas](https://github.com/CarlosLopes88/API_Node_MongoDB);
