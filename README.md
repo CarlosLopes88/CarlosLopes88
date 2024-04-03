@@ -41,12 +41,6 @@
 
 ##
 
-<div width="100%" style="display: inline_block; text-align:center;"><br>
-  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
-</div>
-
-##
-
 <div>
   <a href="https://www.linkedin.com/in/carlos-eduardo-lopes-planejamento-empresarial/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>  
