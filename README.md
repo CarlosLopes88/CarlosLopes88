@@ -24,19 +24,19 @@
 
 
 <div width="100%" style="display: inline_block; text-align:center;"><br>
-  <img align="center" alt="carloslopes88-Python" height="40" width="40" src="https://skillicons.dev/icons?i=py">
-  <img align="center" alt="carloslopes88-Js" height="40" width="40" src="https://skillicons.dev/icons?i=js">
-  <img align="center" alt="carloslopes88-Html" height="40" width="40" src="https://skillicons.dev/icons?i=html">
-  <img align="center" alt="carloslopes88-Css" height="40" width="40" src="https://skillicons.dev/icons?i=css">
-  <img align="center" alt="carloslopes88-Csharp" height="40" width="40" src="https://skillicons.dev/icons?i=cs">
-  <img align="center" alt="carloslopes88-Django" height="40" width="40" src="https://skillicons.dev/icons?i=django">
-  <img align="center" alt="carloslopes88-Flask" height="40" width="40" src="https://skillicons.dev/icons?i=flask">
-  <img align="center" alt="carloslopes88-FastAPI" height="40" width="40" src="https://skillicons.dev/icons?i=fastapi">
-  <img align="center" alt="carloslopes88-Aws" height="40" width="40" src="https://skillicons.dev/icons?i=aws">
-  <img align="center" alt="carloslopes88-Docker" height="40" width="40" src="https://skillicons.dev/icons?i=docker">
-  <img align="center" alt="carloslopes88-Terraform" height="40" width="40" src="https://skillicons.dev/icons?i=terraform">
-  <img align="center" alt="carloslopes88-Kubernetes" height="40" width="40" src="https://skillicons.dev/icons?i=kubernetes">
-  <img align="center" alt="carloslopes88-Kafka" height="40" width="40" src="https://skillicons.dev/icons?i=kafka">
+  <img align="center" alt="carloslopes88-Python" height="50" width="50" src="https://skillicons.dev/icons?i=py">
+  <img align="center" alt="carloslopes88-Js" height="50" width="50" src="https://skillicons.dev/icons?i=js">
+  <img align="center" alt="carloslopes88-Html" height="50" width="50" src="https://skillicons.dev/icons?i=html">
+  <img align="center" alt="carloslopes88-Css" height="50" width="50" src="https://skillicons.dev/icons?i=css">
+  <img align="center" alt="carloslopes88-Csharp" height="50" width="50" src="https://skillicons.dev/icons?i=cs">
+  <img align="center" alt="carloslopes88-Django" height="50" width="50" src="https://skillicons.dev/icons?i=django">
+  <img align="center" alt="carloslopes88-Flask" height="50" width="50" src="https://skillicons.dev/icons?i=flask">
+  <img align="center" alt="carloslopes88-FastAPI" height="50" width="50" src="https://skillicons.dev/icons?i=fastapi">
+  <img align="center" alt="carloslopes88-Aws" height="50" width="50" src="https://skillicons.dev/icons?i=aws">
+  <img align="center" alt="carloslopes88-Docker" height="50" width="50" src="https://skillicons.dev/icons?i=docker">
+  <img align="center" alt="carloslopes88-Terraform" height="50" width="50" src="https://skillicons.dev/icons?i=terraform">
+  <img align="center" alt="carloslopes88-Kubernetes" height="50" width="50" src="https://skillicons.dev/icons?i=kubernetes">
+  <img align="center" alt="carloslopes88-Kafka" height="50" width="50" src="https://skillicons.dev/icons?i=kafka">
 </div>
 
 ##
