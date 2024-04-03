@@ -42,7 +42,7 @@
 ##
 
 <div width="100%" style="display: inline_block; text-align:center;"><br>
-  [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,cs,django,flask,fastapi,aws,docker,terraform,kubernetes,kafkaaws&perline=3)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 </div>
 
 ##
