@@ -12,6 +12,7 @@
   <a href="https://github.com/carloslopes88">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carloslopes88&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img width="40%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloslopes88&layout=compact&langs_count=7&theme=tokyonight"/>
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
   </a>
 </div>
 <div>
