@@ -14,7 +14,7 @@
     <img width="40%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloslopes88&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carloslopes88&show_icons=true&theme=radical)
+<img width="40%" height="180em" src=https://github-readme-stats.vercel.app/api?username=carloslopes88&show_icons=true&theme=tokyonight"/>
   
 </div>
 <div>
