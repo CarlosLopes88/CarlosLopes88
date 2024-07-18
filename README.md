@@ -7,12 +7,15 @@
 - 📚 Também sou professor universitário das disciplinas de linguagem de programação Python e Big Data.
   
 - 📫 contato: carloseduardo_lps@hotmail.com
-  
+
 <div>
   <a href="https://github.com/carloslopes88">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carloslopes88&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img width="40%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloslopes88&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carloslopes88&show_icons=true&theme=radical)
+  
 </div>
 <div>
   
