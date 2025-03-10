@@ -31,6 +31,7 @@
   <img align="center" alt="carloslopes88-Pandas" height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png">
   <img align="center" alt="carloslopes88-Sklearn" height="60" width="60" src="https://skillicons.dev/icons?i=sklearn">
   <img align="center" alt="carloslopes88-Tensorflow" height="60" width="60" src="https://skillicons.dev/icons?i=tensorflow">
+  <img align="center" alt="carloslopes88-Jupyter" height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png">
   <img align="center" alt="carloslopes88-Spark" height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_spark.png">
   <img align="center" alt="carloslopes88-Js" height="60" width="60" src="https://skillicons.dev/icons?i=nodejs">
   <img align="center" alt="carloslopes88-Express" height="60" width="60" src="https://skillicons.dev/icons?i=express">
@@ -46,7 +47,7 @@
   <img align="center" alt="carloslopes88-Postgres" height="60" width="60" src="https://skillicons.dev/icons?i=postgres">
   <img align="center" alt="carloslopes88-Mysql" height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png">
   <img align="center" alt="carloslopes88-MongoDB" height="60" width="60" src="https://skillicons.dev/icons?i=mongodb">
-  <img align="center" alt="carloslopes88-Postman" height="60" width="60" src="https://skillicons.dev/icons?i=postman">
+  <img align="center" alt="carloslopes88-Postman" height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png">
 
 </div>
 
