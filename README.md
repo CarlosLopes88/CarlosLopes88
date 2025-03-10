@@ -32,7 +32,7 @@
   <img align="center" alt="carloslopes88-Html" height="60" width="60" src="https://skillicons.dev/icons?i=html">
   <img align="center" alt="carloslopes88-Css" height="60" width="60" src="https://skillicons.dev/icons?i=css">
   <img align="center" alt="carloslopes88-Aws" height="60" width="60" src="https://skillicons.dev/icons?i=aws">
-  <img align="center" alt="carloslopes88-Csharp" height="60" width="60" src="https://skillicons.dev/icons?i=gcp">
+  <img align="center" alt="carloslopes88-Azure" height="60" width="60" src="https://skillicons.dev/icons?i=azure">
   <img align="center" alt="carloslopes88-Docker" height="60" width="60" src="https://skillicons.dev/icons?i=docker">
   <img align="center" alt="carloslopes88-Terraform" height="60" width="60" src="https://skillicons.dev/icons?i=terraform">
   <img align="center" alt="carloslopes88-Kubernetes" height="60" width="60" src="https://skillicons.dev/icons?i=kubernetes">
