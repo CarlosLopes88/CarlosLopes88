@@ -29,6 +29,8 @@
   <img align="center" alt="carloslopes88-Flask" height="60" width="60" src="https://skillicons.dev/icons?i=flask">
   <img align="center" alt="carloslopes88-FastAPI" height="60" width="60" src="https://skillicons.dev/icons?i=fastapi">
   <img align="center" alt="carloslopes88-Pandas" height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png">
+  <img align="center" alt="carloslopes88-Sklearn" height="60" width="60" src="https://skillicons.dev/icons?i=sklearn">
+  <img align="center" alt="carloslopes88-Tensorflow" height="60" width="60" src="https://skillicons.dev/icons?i=tensorflow">
   <img align="center" alt="carloslopes88-Spark" height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_spark.png">
   <img align="center" alt="carloslopes88-Js" height="60" width="60" src="https://skillicons.dev/icons?i=nodejs">
   <img align="center" alt="carloslopes88-Express" height="60" width="60" src="https://skillicons.dev/icons?i=express">
@@ -36,13 +38,14 @@
   <img align="center" alt="carloslopes88-Css" height="60" width="60" src="https://skillicons.dev/icons?i=css">
   <img align="center" alt="carloslopes88-Aws" height="60" width="60" src="https://skillicons.dev/icons?i=aws">
   <img align="center" alt="carloslopes88-Azure" height="60" width="60" src="https://skillicons.dev/icons?i=azure">
+  <img align="center" alt="carloslopes88-Databricks" height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/databricks.png">
   <img align="center" alt="carloslopes88-Docker" height="60" width="60" src="https://skillicons.dev/icons?i=docker">
   <img align="center" alt="carloslopes88-Terraform" height="60" width="60" src="https://skillicons.dev/icons?i=terraform">
   <img align="center" alt="carloslopes88-Kubernetes" height="60" width="60" src="https://skillicons.dev/icons?i=kubernetes">
   <img align="center" alt="carloslopes88-Kafka" height="60" width="60" src="https://skillicons.dev/icons?i=kafka">
-  <img align="center" alt="carloslopes88-Postgres" height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png">
+  <img align="center" alt="carloslopes88-Postgres" height="60" width="60" src="https://skillicons.dev/icons?i=postgres">
   <img align="center" alt="carloslopes88-Mysql" height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png">
-  <img align="center" alt="carloslopes88-MongoDB" height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png">
+  <img align="center" alt="carloslopes88-MongoDB" height="60" width="60" src="https://skillicons.dev/icons?i=mongodb">
 
 </div>
 
