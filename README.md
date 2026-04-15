@@ -24,11 +24,11 @@
 
 
 <div width="100%" style="display: inline_block; text-align:center;"><br>
-  <img align="center" alt="carloslopes88-Python" height="60" width="60" src="https://skillicons.dev/icons?i=py">
-  <img align="center" alt="carloslopes88-Django" height="60" width="60" src="https://skillicons.dev/icons?i=django">
-  <img align="center" alt="carloslopes88-Flask" height="60" width="60" src="https://skillicons.dev/icons?i=flask">
-  <img align="center" alt="carloslopes88-FastAPI" height="60" width="60" src="https://skillicons.dev/icons?i=fastapi">
-  <img align="center" alt="carloslopes88-Pandas" height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png">
+  <img alt="carloslopes88-Python" height="60" width="60" src="https://skillicons.dev/icons?i=py">
+  <img alt="carloslopes88-Django" height="60" width="60" src="https://skillicons.dev/icons?i=django">
+  <img alt="carloslopes88-Flask" height="60" width="60" src="https://skillicons.dev/icons?i=flask">
+  <img alt="carloslopes88-FastAPI" height="60" width="60" src="https://skillicons.dev/icons?i=fastapi">
+  <img alt="carloslopes88-Pandas" height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png">
   <img align="center" alt="carloslopes88-Sklearn" height="60" width="60" src="https://skillicons.dev/icons?i=sklearn">
   <img align="center" alt="carloslopes88-Tensorflow" height="60" width="60" src="https://skillicons.dev/icons?i=tensorflow">
   <img align="center" alt="carloslopes88-Jupyter" height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png">
