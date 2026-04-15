@@ -23,7 +23,7 @@
 ### Abaixo um pouco das tecnologias que conheço !!!
 
 
-<div style="display: flex; flex-wrap: wrap; gap: 8px;"><br>
+<div width="100%" style="display: inline_block; text-align:center;"><br>
   <img alt="carloslopes88-Python" height="60" width="60" src="https://skillicons.dev/icons?i=py">
   <img alt="carloslopes88-Django" height="60" width="60" src="https://skillicons.dev/icons?i=django">
   <img alt="carloslopes88-Flask" height="60" width="60" src="https://skillicons.dev/icons?i=flask">
