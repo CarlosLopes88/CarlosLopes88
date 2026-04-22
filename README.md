@@ -39,6 +39,8 @@
       <td><img height="60" width="60" src="https://skillicons.dev/icons?i=nodejs"/></td>
       <td><img height="60" width="60" src="https://skillicons.dev/icons?i=express"/></td>
       <td><img height="60" width="60" src="https://skillicons.dev/icons?i=html"/></td>
+    </tr>
+    <tr>
       <td><img height="60" width="60" src="https://skillicons.dev/icons?i=css"/></td>
       <td><img height="60" width="60" src="https://skillicons.dev/icons?i=aws"/></td>
       <td><img height="60" width="60" src="https://skillicons.dev/icons?i=azure"/></td>
