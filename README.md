@@ -26,7 +26,7 @@
 
 ### Teste
 
-<img src="https://skillicons.dev/icons?i=py, django">
+<img src="https://skillicons.dev/icons?i=py,django">
 
 ### FIM Teste
 
