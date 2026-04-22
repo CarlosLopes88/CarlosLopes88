@@ -28,8 +28,6 @@
 
 <p align="center">
   <table border="0" cellpadding="6">
-
-    <!-- Python & Backend -->
     <tr>
       <td align="center" colspan="4">
         <img height="60" src="https://skillicons.dev/icons?i=py,django,flask,fastapi"/>
@@ -47,8 +45,6 @@
         <img height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_spark.png"/>
       </td>
     </tr>
-
-    <!-- Frontend & Cloud -->
     <tr>
       <td align="center" colspan="4">
         <img height="60" src="https://skillicons.dev/icons?i=nodejs,express,html,css"/>
@@ -63,8 +59,6 @@
         <img height="60" src="https://skillicons.dev/icons?i=docker,terraform,kubernetes,kafka"/>
       </td>
     </tr>
-
-    <!-- Databases & Tools -->
     <tr>
       <td align="center">
         <img height="60" src="https://skillicons.dev/icons?i=postgres"/>
