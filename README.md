@@ -29,6 +29,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img height="60" width="60" src="https://skillicons.dev/icons?i=py"/>
+    <img height="60" width="60" src="https://skillicons.dev/icons?i=django"/>
   </a>
 </p>
 
