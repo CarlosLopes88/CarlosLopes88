@@ -22,62 +22,38 @@
 
 ### Abaixo um pouco das tecnologias que conheço !!!
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,flask,fastapi,sklearn,tensorflow,&perline=5)](https://skillicons.dev)
-
 ### Teste
 
 <p align="center">
-  <table border="0" cellpadding="6">
+  <table border="0" cellspacing="0" cellpadding="8">
     <tr>
-      <td align="center" colspan="4">
-        <img height="60" src="https://skillicons.dev/icons?i=py,django,flask,fastapi"/>
-      </td>
-      <td align="center">
-        <img height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png"/>
-      </td>
-      <td align="center" colspan="2">
-        <img height="60" src="https://skillicons.dev/icons?i=sklearn,tensorflow"/>
-      </td>
-      <td align="center">
-        <img height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png"/>
-      </td>
-      <td align="center">
-        <img height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_spark.png"/>
-      </td>
+      <td><img height="60" width="60" src="https://skillicons.dev/icons?i=py"/></td>
+      <td><img height="60" width="60" src="https://skillicons.dev/icons?i=django"/></td>
+      <td><img height="60" width="60" src="https://skillicons.dev/icons?i=flask"/></td>
+      <td><img height="60" width="60" src="https://skillicons.dev/icons?i=fastapi"/></td>
+      <td><img height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png"/></td>
+      <td><img height="60" width="60" src="https://skillicons.dev/icons?i=sklearn"/></td>
+      <td><img height="60" width="60" src="https://skillicons.dev/icons?i=tensorflow"/></td>
+      <td><img height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png"/></td>
+      <td><img height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_spark.png"/></td>
+      <td><img height="60" width="60" src="https://skillicons.dev/icons?i=nodejs"/></td>
+      <td><img height="60" width="60" src="https://skillicons.dev/icons?i=express"/></td>
+      <td><img height="60" width="60" src="https://skillicons.dev/icons?i=html"/></td>
+      <td><img height="60" width="60" src="https://skillicons.dev/icons?i=css"/></td>
+      <td><img height="60" width="60" src="https://skillicons.dev/icons?i=aws"/></td>
+      <td><img height="60" width="60" src="https://skillicons.dev/icons?i=azure"/></td>
+      <td><img height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/databricks.png"/></td>
+      <td><img height="60" width="60" src="https://skillicons.dev/icons?i=docker"/></td>
+      <td><img height="60" width="60" src="https://skillicons.dev/icons?i=terraform"/></td>
+      <td><img height="60" width="60" src="https://skillicons.dev/icons?i=kubernetes"/></td>
+      <td><img height="60" width="60" src="https://skillicons.dev/icons?i=kafka"/></td>
+      <td><img height="60" width="60" src="https://skillicons.dev/icons?i=postgres"/></td>
+      <td><img height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png"/></td>
+      <td><img height="60" width="60" src="https://skillicons.dev/icons?i=mongodb"/></td>
+      <td><img height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png"/></td>
     </tr>
-    <tr>
-      <td align="center" colspan="4">
-        <img height="60" src="https://skillicons.dev/icons?i=nodejs,express,html,css"/>
-      </td>
-      <td align="center" colspan="2">
-        <img height="60" src="https://skillicons.dev/icons?i=aws,azure"/>
-      </td>
-      <td align="center">
-        <img height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/databricks.png"/>
-      </td>
-      <td align="center" colspan="4">
-        <img height="60" src="https://skillicons.dev/icons?i=docker,terraform,kubernetes,kafka"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img height="60" src="https://skillicons.dev/icons?i=postgres"/>
-      </td>
-      <td align="center">
-        <img height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png"/>
-      </td>
-      <td align="center">
-        <img height="60" src="https://skillicons.dev/icons?i=mongodb"/>
-      </td>
-      <td align="center">
-        <img height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png"/>
-      </td>
-    </tr>
-
   </table>
 </p>
-
-<img height="60" width="60" src="https://skillicons.dev/icons?i=py,django,flask,fastapi,pandas">
 
 ### FIM Teste
 
