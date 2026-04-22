@@ -22,8 +22,6 @@
 
 ### Abaixo um pouco das tecnologias que conheço !!!
 
-### Teste
-
 <p align="center">
   <table border="0" cellspacing="0" cellpadding="8">
     <tr>
@@ -57,7 +55,7 @@
   </table>
 </p>
 
-### FIM Teste
+<!-- 
 
 <div width="100%" style="display: inline_block; text-align:center;"><br>
   <img align="center" alt="carloslopes88-Python" height="60" width="60" src="https://skillicons.dev/icons?i=py">
@@ -86,6 +84,8 @@
   <img align="center" alt="carloslopes88-Postman" height="60" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png">
 
 </div>
+
+-->
 
 ##
 
