@@ -22,6 +22,7 @@
 
 ### Abaixo um pouco das tecnologias que conheço !!!
 
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 <div width="100%" style="display: inline_block; text-align:center;"><br>
   <img align="center" alt="carloslopes88" height="30" width="40" src="https://skillicons.dev/icons?i=py">
