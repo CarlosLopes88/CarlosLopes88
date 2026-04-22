@@ -27,9 +27,13 @@
 ### Teste
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img height="60" width="60" src="https://skillicons.dev/icons?i=py"/><img height="60" width="60" src="https://skillicons.dev/icons?i=django"/>
-  </a>
+  <table border="0" cellspacing="0" cellpadding="8">
+    <tr>
+      <td><img height="60" src="https://skillicons.dev/icons?i=py"/></td>
+      <td><img height="60" src="https://skillicons.dev/icons?i=django"/></td>
+      <td><img height="60" src="https://sua-imagem-customizada.com/icon.png"/></td>
+    </tr>
+  </table>
 </p>
 
 <img height="60" width="60" src="https://skillicons.dev/icons?i=py,django,flask,fastapi,pandas">
