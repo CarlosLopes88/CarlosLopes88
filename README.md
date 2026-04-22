@@ -24,6 +24,12 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,django,flask,fastapi,sklearn,tensorflow,&perline=5)](https://skillicons.dev)
 
+### Teste
+
+<img src="https://skillicons.dev/icons?i=py, django">
+
+### FIM Teste
+
 <div width="100%" style="display: inline_block; text-align:center;"><br>
   <img align="center" alt="carloslopes88-Python" height="60" width="60" src="https://skillicons.dev/icons?i=py">
   <img align="center" alt="carloslopes88-Django" height="60" width="60" src="https://skillicons.dev/icons?i=django">
