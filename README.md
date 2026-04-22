@@ -24,6 +24,9 @@
 
 
 <div width="100%" style="display: inline_block; text-align:center;"><br>
+  <img align="center" alt="carloslopes88" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Light.svg">
+  <img align="center" alt="carloslopes88" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Light.svg">
+  <img align="center" alt="carloslopes88" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Light.svg">
   <img align="center" alt="carloslopes88-Python" height="60" width="60" src="https://skillicons.dev/icons?i=py">
   <img align="center" alt="carloslopes88-Django" height="60" width="60" src="https://skillicons.dev/icons?i=django">
   <img align="center" alt="carloslopes88-Flask" height="60" width="60" src="https://skillicons.dev/icons?i=flask">
