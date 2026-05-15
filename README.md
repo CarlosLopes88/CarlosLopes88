@@ -4,7 +4,7 @@
   
 - 🌱 Estudo python e as disciplinas de engenharia e ciência de dados, desenvolvendo também softwares e aplicações web baseadas nessa linguagem nas horas vagas.
   
-- 📚 Também sou professor universitário das disciplinas de linguagem de programação Python e Big Data.
+- 📚 Também sou professor universitário das disciplinas de linguagem de programação Python, Ciência e Análise de Dados e Big Data.
   
 - 📫 contato: carloseduardo_lps@hotmail.com
 
